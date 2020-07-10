@@ -1,0 +1,2267 @@
+{
+   "objectIdFieldName": "OBJECTID",
+   "uniqueIdField": {
+      "name": "OBJECTID",
+      "isSystemMaintained": true
+   },
+   "globalIdFieldName": "",
+   "geometryType": "esriGeometryPoint",
+   "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+   },
+   "fields": [
+      {
+         "name": "OBJECTID",
+         "type": "esriFieldTypeOID",
+         "alias": "OBJECTID",
+         "sqlType": "sqlTypeOther",
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LICENSEE",
+         "type": "esriFieldTypeString",
+         "alias": "LICENSEE",
+         "sqlType": "sqlTypeOther",
+         "length": 80,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "CALLSIGN",
+         "type": "esriFieldTypeString",
+         "alias": "CALLSIGN",
+         "sqlType": "sqlTypeOther",
+         "length": 7,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LOCNUM",
+         "type": "esriFieldTypeString",
+         "alias": "LOCNUM",
+         "sqlType": "sqlTypeOther",
+         "length": 2,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LAT_DMS",
+         "type": "esriFieldTypeString",
+         "alias": "LAT_DMS",
+         "sqlType": "sqlTypeOther",
+         "length": 8,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LATDIR",
+         "type": "esriFieldTypeString",
+         "alias": "LATDIR",
+         "sqlType": "sqlTypeOther",
+         "length": 1,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LON_DMS",
+         "type": "esriFieldTypeString",
+         "alias": "LON_DMS",
+         "sqlType": "sqlTypeOther",
+         "length": 9,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LONDIR",
+         "type": "esriFieldTypeString",
+         "alias": "LONDIR",
+         "sqlType": "sqlTypeOther",
+         "length": 1,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LOCADD",
+         "type": "esriFieldTypeString",
+         "alias": "LOCADD",
+         "sqlType": "sqlTypeOther",
+         "length": 70,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LOCCITY",
+         "type": "esriFieldTypeString",
+         "alias": "LOCCITY",
+         "sqlType": "sqlTypeOther",
+         "length": 20,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LOCCOUNTY",
+         "type": "esriFieldTypeString",
+         "alias": "LOCCOUNTY",
+         "sqlType": "sqlTypeOther",
+         "length": 31,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LOCSTATE",
+         "type": "esriFieldTypeString",
+         "alias": "LOCSTATE",
+         "sqlType": "sqlTypeOther",
+         "length": 2,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "NEPA",
+         "type": "esriFieldTypeString",
+         "alias": "NEPA",
+         "sqlType": "sqlTypeOther",
+         "length": 2,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "QZONE",
+         "type": "esriFieldTypeString",
+         "alias": "QZONE",
+         "sqlType": "sqlTypeOther",
+         "length": 10,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "TOWREG",
+         "type": "esriFieldTypeString",
+         "alias": "TOWREG",
+         "sqlType": "sqlTypeOther",
+         "length": 7,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "SUPSTRUC",
+         "type": "esriFieldTypeDouble",
+         "alias": "SUPSTRUC",
+         "sqlType": "sqlTypeOther",
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "ALLSTRUC",
+         "type": "esriFieldTypeDouble",
+         "alias": "ALLSTRUC",
+         "sqlType": "sqlTypeOther",
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "STRUCTYPE",
+         "type": "esriFieldTypeString",
+         "alias": "STRUCTYPE",
+         "sqlType": "sqlTypeOther",
+         "length": 6,
+         "domain": null,
+         "defaultValue": null
+      },
+      {
+         "name": "LIC_ID",
+         "type": "esriFieldTypeString",
+         "alias": "LIC_ID",
+         "sqlType": "sqlTypeOther",
+         "length": 9,
+         "domain": null,
+         "defaultValue": null
+      }
+   ],
+   "exceededTransferLimit": true,
+   "features": [
+      {
+         "attributes": {
+            "OBJECTID": 1,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "2",
+            "LAT_DMS": "38,55,28",
+            "LATDIR": "N",
+            "LON_DMS": "81,4,55",
+            "LONDIR": "W",
+            "LOCADD": "PLEASANT HILL RD",
+            "LOCCITY": "GRANTSVILLE",
+            "LOCCOUNTY": "CALHOUN",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 36.3,
+            "ALLSTRUC": 37.8,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.08190354111548,
+            "y": 38.92450762982331
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 2,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "6",
+            "LAT_DMS": "38,38,13",
+            "LATDIR": "N",
+            "LON_DMS": "81,17,5",
+            "LONDIR": "W",
+            "LOCADD": "0.4 MILES SW OF VINEYARD GAP & SR 36",
+            "LOCCITY": "LOONEYVILLE",
+            "LOCCOUNTY": "ROANE",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1002593",
+            "SUPSTRUC": 123.1,
+            "ALLSTRUC": 125.6,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.28470358350353,
+            "y": 38.63690756463245
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 3,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "7",
+            "LAT_DMS": "39,2,14",
+            "LATDIR": "N",
+            "LON_DMS": "81,37,4",
+            "LONDIR": "W",
+            "LOCADD": "ROUTE 1",
+            "LOCCITY": "MURRAYSVILLE",
+            "LOCCOUNTY": "JACKSON",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 55.2,
+            "ALLSTRUC": 59.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.61780371177184,
+            "y": 39.037207628928975
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 4,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "9",
+            "LAT_DMS": "38,39,55",
+            "LATDIR": "N",
+            "LON_DMS": "81,37,30",
+            "LONDIR": "W",
+            "LOCADD": "PORTION OF 3.56 ACRE PARCEL RIPLEY AND WASHINGTON",
+            "LOCCITY": "KENNA",
+            "LOCCOUNTY": "JACKSON",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1034261",
+            "SUPSTRUC": 123.1,
+            "ALLSTRUC": 125.9,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.62500368767002,
+            "y": 38.665307555899055
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 5,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "10",
+            "LAT_DMS": "38,50,54",
+            "LATDIR": "N",
+            "LON_DMS": "81,54,54",
+            "LONDIR": "W",
+            "LOCADD": "ROUTE 1 BOX 232C",
+            "LOCCITY": "MOUNT ALTO",
+            "LOCCOUNTY": "MASON",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1219729",
+            "SUPSTRUC": 80.8,
+            "ALLSTRUC": 83.8,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.9150037879944,
+            "y": 38.84830757913153
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 6,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "11",
+            "LAT_DMS": "38,34,44",
+            "LATDIR": "N",
+            "LON_DMS": "81,22,30",
+            "LONDIR": "W",
+            "LOCADD": "9765 CHARLESTON ROAD",
+            "LOCCITY": "CLENDENIN",
+            "LOCCOUNTY": "ROANE",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1264461",
+            "SUPSTRUC": 91.1,
+            "ALLSTRUC": 91.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.37500360633135,
+            "y": 38.578907549244036
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 7,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "12",
+            "LAT_DMS": "38,37,39",
+            "LATDIR": "N",
+            "LON_DMS": "81,38,29",
+            "LONDIR": "W",
+            "LOCADD": "2257 FISHER RIDGE ROAD",
+            "LOCCITY": "KENNA",
+            "LOCCOUNTY": "JACKSON",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1208255",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 99.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.64140369032799,
+            "y": 38.62750754753533
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 8,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "13",
+            "LAT_DMS": "38,34,10",
+            "LATDIR": "N",
+            "LON_DMS": "81,16,38",
+            "LONDIR": "W",
+            "LOCADD": "PIGEON RUN ROAD",
+            "LOCCITY": "AMMA",
+            "LOCCOUNTY": "ROANE",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1217846",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 99.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.27720357578437,
+            "y": 38.5694075518171
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 9,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "14",
+            "LAT_DMS": "38,58,12",
+            "LATDIR": "N",
+            "LON_DMS": "81,43,21",
+            "LONDIR": "W",
+            "LOCADD": "TOWN OF RAVENSWOOD",
+            "LOCCITY": "RAVENSWOOD",
+            "LOCCOUNTY": "JACKSON",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 57.9,
+            "ALLSTRUC": 59.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.72250373855667,
+            "y": 38.97000761106245
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 10,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "15",
+            "LAT_DMS": "38,46,42",
+            "LATDIR": "N",
+            "LON_DMS": "81,49,55",
+            "LONDIR": "W",
+            "LOCADD": "481 GREY DRIVE",
+            "LOCCITY": "EVANS",
+            "LOCCOUNTY": "MASON",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1271602",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 92.4,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.8319037581519,
+            "y": 38.778307568839296
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 11,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKN848",
+            "LOCNUM": "16",
+            "LAT_DMS": "38,33,49",
+            "LATDIR": "N",
+            "LON_DMS": "81,8,15",
+            "LONDIR": "W",
+            "LOCADD": "OFF RT. 36 & I-79",
+            "LOCCITY": "WALLBACK",
+            "LOCCOUNTY": "ROANE",
+            "LOCSTATE": "WV",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1257383",
+            "SUPSTRUC": 83.8,
+            "ALLSTRUC": 85.3,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11497"
+         },
+         "geometry": {
+            "x": -81.13750353396091,
+            "y": 38.56360755594403
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 12,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "2",
+            "LAT_DMS": "40,13,34",
+            "LATDIR": "N",
+            "LON_DMS": "76,32,47",
+            "LONDIR": "W",
+            "LOCADD": "ROUTE 743 & ROUTE 341 EAST",
+            "LOCCITY": "PALMYRA",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1024593",
+            "SUPSTRUC": 86.9,
+            "ALLSTRUC": 91.4,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.5464022250826,
+            "y": 40.22610806793306
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 13,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "3",
+            "LAT_DMS": "40,19,25",
+            "LATDIR": "N",
+            "LON_DMS": "76,35,42",
+            "LONDIR": "W",
+            "LOCADD": "679 RIDGE RD",
+            "LOCCITY": "PALMYRA",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 60.6,
+            "ALLSTRUC": 60.6,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.59500224675622,
+            "y": 40.32360808554478
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 14,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "4",
+            "LAT_DMS": "40,23,38",
+            "LATDIR": "N",
+            "LON_DMS": "76,37,26",
+            "LONDIR": "W",
+            "LOCADD": "14 PLEASANT VIEW RD",
+            "LOCCITY": "GRANTVILLE",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1008777",
+            "SUPSTRUC": 76.2,
+            "ALLSTRUC": 82.3,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.62390226018114,
+            "y": 40.39390809798037
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 15,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "5",
+            "LAT_DMS": "40,22,5",
+            "LATDIR": "N",
+            "LON_DMS": "76,15,45",
+            "LONDIR": "W",
+            "LOCADD": "330 MILLARDVILLE ROAD",
+            "LOCCITY": "RICHLAND",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1024594",
+            "SUPSTRUC": 54.9,
+            "ALLSTRUC": 61,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.26250214435845,
+            "y": 40.36810810610428
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 16,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "8",
+            "LAT_DMS": "40,30,8",
+            "LATDIR": "N",
+            "LON_DMS": "76,32,34",
+            "LONDIR": "W",
+            "LOCADD": "GREEN POINT SCHOOL ROAD",
+            "LOCCITY": "JONESTOWN",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1064643",
+            "SUPSTRUC": 85.3,
+            "ALLSTRUC": 91.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.54280224163011,
+            "y": 40.5022081217075
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 17,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "9",
+            "LAT_DMS": "40,15,37",
+            "LATDIR": "N",
+            "LON_DMS": "76,34,51",
+            "LONDIR": "W",
+            "LOCADD": "(CAMPBELLTON SITE) 200 CHESTNUT ROAD",
+            "LOCCITY": "PALMYRA",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1277208",
+            "SUPSTRUC": 36.5,
+            "ALLSTRUC": 37.8,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.58080223763312,
+            "y": 40.26030807305914
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 18,
+            "LICENSEE": "CELLCO PARTNERSHIP",
+            "CALLSIGN": "KNKN893",
+            "LOCNUM": "10",
+            "LAT_DMS": "40,22,27",
+            "LATDIR": "N",
+            "LON_DMS": "76,27,12",
+            "LONDIR": "W",
+            "LOCADD": "(LEBANON SITE) 1913 WATER STREET",
+            "LOCCITY": "LEBANON",
+            "LOCCOUNTY": "LEBANON",
+            "LOCSTATE": "PA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 56.4,
+            "ALLSTRUC": 59.8,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11503"
+         },
+         "geometry": {
+            "x": -76.45330220533249,
+            "y": 40.37420810052344
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 19,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA667",
+            "LOCNUM": "3",
+            "LAT_DMS": "44,2,43",
+            "LATDIR": "N",
+            "LON_DMS": "92,23,55",
+            "LONDIR": "W",
+            "LOCADD": "3910 VIOLA ROAD NORTHEAST",
+            "LOCCITY": "ROCHESTER",
+            "LOCCOUNTY": "OLMSTED",
+            "LOCSTATE": "MN",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1042726",
+            "SUPSTRUC": 81.1,
+            "ALLSTRUC": 85,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11509"
+         },
+         "geometry": {
+            "x": -92.39860737962681,
+            "y": 44.04530791332956
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 20,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA667",
+            "LOCNUM": "4",
+            "LAT_DMS": "43,56,36",
+            "LATDIR": "N",
+            "LON_DMS": "92,2,25",
+            "LONDIR": "W",
+            "LOCADD": "11916 COUNTY ROAD 35",
+            "LOCCITY": "SAINT CHARLES",
+            "LOCCOUNTY": "WINONA",
+            "LOCSTATE": "MN",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 56.4,
+            "ALLSTRUC": 57.9,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11509"
+         },
+         "geometry": {
+            "x": -92.0403072637692,
+            "y": 43.94330792202305
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 21,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA667",
+            "LOCNUM": "5",
+            "LAT_DMS": "44,5,33",
+            "LATDIR": "N",
+            "LON_DMS": "92,29,4",
+            "LONDIR": "W",
+            "LOCADD": "1509 65TH STREET",
+            "LOCCITY": "ROCHESTER",
+            "LOCCOUNTY": "OLMSTED",
+            "LOCSTATE": "MN",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1027971",
+            "SUPSTRUC": 80.8,
+            "ALLSTRUC": 97.5,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11509"
+         },
+         "geometry": {
+            "x": -92.48440740987405,
+            "y": 44.09250791540801
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 22,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA667",
+            "LOCNUM": "6",
+            "LAT_DMS": "43,50,50",
+            "LATDIR": "N",
+            "LON_DMS": "92,29,35",
+            "LONDIR": "W",
+            "LOCADD": "368 COUNTY ROAD 6 SOUTHWEST",
+            "LOCCITY": "STEWARTVILLE",
+            "LOCCOUNTY": "OLMSTED",
+            "LOCSTATE": "MN",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1237547",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 91.4,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11509"
+         },
+         "geometry": {
+            "x": -92.49310738120067,
+            "y": 43.84720787724176
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 23,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA667",
+            "LOCNUM": "7",
+            "LAT_DMS": "44,1,26",
+            "LATDIR": "N",
+            "LON_DMS": "92,35,54",
+            "LONDIR": "W",
+            "LOCADD": "8031 WEST COUNTRY CLUB ROAD",
+            "LOCCITY": "BYRON",
+            "LOCCOUNTY": "OLMSTED",
+            "LOCSTATE": "MN",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1033928",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 92,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11509"
+         },
+         "geometry": {
+            "x": -92.59830743374101,
+            "y": 44.02390789683204
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 24,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA667",
+            "LOCNUM": "8",
+            "LAT_DMS": "44,0,24",
+            "LATDIR": "N",
+            "LON_DMS": "92,43,7",
+            "LONDIR": "W",
+            "LOCADD": "25985 650TH STREET",
+            "LOCCITY": "KASSON",
+            "LOCCOUNTY": "DODGE",
+            "LOCSTATE": "MN",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1210413",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 93.3,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11509"
+         },
+         "geometry": {
+            "x": -92.71860746586187,
+            "y": 44.006707886060155
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 25,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA679",
+            "LOCNUM": "6",
+            "LAT_DMS": "47,42,40",
+            "LATDIR": "N",
+            "LON_DMS": "122,41,20",
+            "LONDIR": "W",
+            "LOCADD": "16400 CLEAR CREEK ROAD NORTHWEST",
+            "LOCCITY": "POULSBO",
+            "LOCCOUNTY": "KITSAP",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 27.4,
+            "ALLSTRUC": 27.4,
+            "STRUCTYPE": "UPOLE",
+            "LIC_ID": "11510"
+         },
+         "geometry": {
+            "x": -122.68891497554564,
+            "y": 47.71110558235676
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 26,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA679",
+            "LOCNUM": "7",
+            "LAT_DMS": "47,28,49",
+            "LATDIR": "N",
+            "LON_DMS": "122,32,2",
+            "LONDIR": "W",
+            "LOCADD": "8971 SE VIEW PARK ROAD",
+            "LOCCITY": "PORT ORCHARD",
+            "LOCCOUNTY": "KITSAP",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1031651",
+            "SUPSTRUC": 128.9,
+            "ALLSTRUC": 128.9,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11510"
+         },
+         "geometry": {
+            "x": -122.53391489545601,
+            "y": 47.480305587832675
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 27,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA679",
+            "LOCNUM": "8",
+            "LAT_DMS": "47,41,31",
+            "LATDIR": "N",
+            "LON_DMS": "122,49,18",
+            "LONDIR": "W",
+            "LOCADD": "63 MARITIME ROAD",
+            "LOCCITY": "QUILCENE",
+            "LOCCOUNTY": "JEFFERSON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 46,
+            "ALLSTRUC": 50.9,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11510"
+         },
+         "geometry": {
+            "x": -122.82171499235301,
+            "y": 47.69190556748798
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 28,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "1",
+            "LAT_DMS": "46,31,50",
+            "LATDIR": "N",
+            "LON_DMS": "120,27,28",
+            "LONDIR": "W",
+            "LOCADD": "0.5 MILES EAST OF ROUTE 12",
+            "LOCCITY": "UNION GAP",
+            "LOCCOUNTY": "YAKIMA",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 4.6,
+            "ALLSTRUC": 7.6,
+            "STRUCTYPE": "PIPE",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -120.4578143380612,
+            "y": 46.53060575555123
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 29,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "2",
+            "LAT_DMS": "46,18,28",
+            "LATDIR": "N",
+            "LON_DMS": "120,3,48",
+            "LONDIR": "W",
+            "LOCADD": "EAST END OF SNIPES MOUNTAIN/NO ADDRESS",
+            "LOCCITY": "SUNNYSIDE",
+            "LOCCOUNTY": "YAKIMA",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1033119",
+            "SUPSTRUC": 63.4,
+            "ALLSTRUC": 67.7,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -120.06331422287303,
+            "y": 46.307805782810696
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 30,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "6",
+            "LAT_DMS": "45,46,49",
+            "LATDIR": "N",
+            "LON_DMS": "120,33,24",
+            "LONDIR": "W",
+            "LOCADD": "14 MILES EAST OF GOLDENDALE OFF HOCTOR ROAD",
+            "LOCCITY": "GOLDENDALE",
+            "LOCCOUNTY": "KLICKITAT",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 18.6,
+            "ALLSTRUC": 22.9,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -120.55671419450442,
+            "y": 45.7803056973501
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 31,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "7",
+            "LAT_DMS": "46,24,5",
+            "LATDIR": "N",
+            "LON_DMS": "119,36,20",
+            "LONDIR": "W",
+            "LOCADD": "RATTLESNAKE MOUNTAIN",
+            "LOCCITY": "RICHLAND",
+            "LOCCOUNTY": "BENTON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 50.6,
+            "ALLSTRUC": 56.1,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -119.60561416456197,
+            "y": 46.40140583641028
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 32,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "8",
+            "LAT_DMS": "46,39,6",
+            "LATDIR": "N",
+            "LON_DMS": "120,57,46",
+            "LONDIR": "W",
+            "LOCADD": "HWY 12",
+            "LOCCITY": "NACHES",
+            "LOCCOUNTY": "YAKIMA",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 12.5,
+            "ALLSTRUC": 18.6,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -120.96281444982695,
+            "y": 46.651705710350306
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 33,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "9",
+            "LAT_DMS": "46,53,13",
+            "LATDIR": "N",
+            "LON_DMS": "120,26,32",
+            "LONDIR": "W",
+            "LOCADD": "6.5MI SSE OF I-90 & I-82",
+            "LOCCITY": "ELLENSBURG",
+            "LOCCOUNTY": "KITTITAS",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 9.1,
+            "ALLSTRUC": 12.8,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -120.44221441456351,
+            "y": 46.88690577917838
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 34,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "10",
+            "LAT_DMS": "47,0,12",
+            "LATDIR": "N",
+            "LON_DMS": "120,11,22",
+            "LONDIR": "W",
+            "LOCADD": "E VANTAGE HWY & NUMBER B1 RD",
+            "LOCCITY": "ELLENSBURG",
+            "LOCCOUNTY": "KITTITAS",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 18.6,
+            "ALLSTRUC": 19.8,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -120.18941439835578,
+            "y": 47.00330581311283
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 35,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA700",
+            "LOCNUM": "11",
+            "LAT_DMS": "46,56,16",
+            "LATDIR": "N",
+            "LON_DMS": "121,30,0",
+            "LONDIR": "W",
+            "LOCADD": "ON TOP OF CRYSTAL MOUNTAIN",
+            "LOCCITY": "ENUMCLAW",
+            "LOCCOUNTY": "PIERCE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 7,
+            "ALLSTRUC": 8.2,
+            "STRUCTYPE": "B",
+            "LIC_ID": "11511"
+         },
+         "geometry": {
+            "x": -121.50001460219211,
+            "y": 46.93780566949612
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 36,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "1",
+            "LAT_DMS": "47,48,45",
+            "LATDIR": "N",
+            "LON_DMS": "117,30,31",
+            "LONDIR": "W",
+            "LOCADD": "LOOKOUT MOUNTAIN",
+            "LOCCITY": "SPOKANE",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 24.7,
+            "ALLSTRUC": 32,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.5086141047571,
+            "y": 47.812506150338606
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 37,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "4",
+            "LAT_DMS": "47,20,14",
+            "LATDIR": "N",
+            "LON_DMS": "117,23,26",
+            "LONDIR": "W",
+            "LOCADD": "35205 SOUTH DRAKE ROAD",
+            "LOCCITY": "SPANGLE",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1064745",
+            "SUPSTRUC": 45.7,
+            "ALLSTRUC": 48.2,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.39061397275663,
+            "y": 47.33720613025877
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 38,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "11",
+            "LAT_DMS": "47,26,1",
+            "LATDIR": "N",
+            "LON_DMS": "117,47,12",
+            "LONDIR": "W",
+            "LOCADD": "27401 WEST 2ND STREET",
+            "LOCCITY": "CHENEY",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1064750",
+            "SUPSTRUC": 46.3,
+            "ALLSTRUC": 48.8,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.78671406819967,
+            "y": 47.43360609534505
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 39,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "12",
+            "LAT_DMS": "47,33,6",
+            "LATDIR": "N",
+            "LON_DMS": "117,43,37",
+            "LONDIR": "W",
+            "LOCADD": "22804 WEST WASHINGTON ROAD",
+            "LOCCITY": "MEDICAL LAKE",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 15.2,
+            "ALLSTRUC": 15.5,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.72691408491703,
+            "y": 47.55170610964927
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 40,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "13",
+            "LAT_DMS": "47,40,31",
+            "LATDIR": "N",
+            "LON_DMS": "117,6,35",
+            "LONDIR": "W",
+            "LOCADD": "1926 NORTH HARVARD ROAD",
+            "LOCCITY": "LIBERTY LAKE",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 45.7,
+            "ALLSTRUC": 45.7,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.10971399800256,
+            "y": 47.67530618333377
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 41,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "14",
+            "LAT_DMS": "47,41,53",
+            "LATDIR": "N",
+            "LON_DMS": "117,5,33",
+            "LONDIR": "W",
+            "LOCADD": "EAST 23304 WELLESLEY AVENUE",
+            "LOCCITY": "OTIS ORCHARDS",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 30.8,
+            "ALLSTRUC": 37.8,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.09251399982121,
+            "y": 47.69810618615162
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 42,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "15",
+            "LAT_DMS": "47,46,57",
+            "LATDIR": "N",
+            "LON_DMS": "117,6,41",
+            "LONDIR": "W",
+            "LOCADD": "15316 NORTH PENINSULA DRIVE",
+            "LOCCITY": "NEWMAN LAKE",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 24.4,
+            "ALLSTRUC": 24.4,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.11141402333845,
+            "y": 47.78250619050834
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 43,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "16",
+            "LAT_DMS": "48,5,15",
+            "LATDIR": "N",
+            "LON_DMS": "117,17,16",
+            "LONDIR": "W",
+            "LOCADD": "321730 HWY 2",
+            "LOCCITY": "NEWPORT",
+            "LOCCOUNTY": "PEND OREILLE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 30.5,
+            "ALLSTRUC": 34.1,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.28781412801953,
+            "y": 48.08750619295648
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 44,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA755",
+            "LOCNUM": "17",
+            "LAT_DMS": "47,24,3",
+            "LATDIR": "N",
+            "LON_DMS": "117,8,3",
+            "LONDIR": "W",
+            "LOCADD": "BRADSHAW RD",
+            "LOCCITY": "FAIRFIELD",
+            "LOCCOUNTY": "SPOKANE",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 19.8,
+            "ALLSTRUC": 19.8,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11512"
+         },
+         "geometry": {
+            "x": -117.13421393982145,
+            "y": 47.400806161075536
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 45,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "3",
+            "LAT_DMS": "46,14,0",
+            "LATDIR": "N",
+            "LON_DMS": "119,19,9",
+            "LONDIR": "W",
+            "LOCADD": "ATOP BADGER MTN",
+            "LOCCITY": "RICHLAND",
+            "LOCCOUNTY": "BENTON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 30.5,
+            "ALLSTRUC": 32.6,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.31921407826707,
+            "y": 46.2333058545816
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 46,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "4",
+            "LAT_DMS": "46,19,19",
+            "LATDIR": "N",
+            "LON_DMS": "119,34,32",
+            "LONDIR": "W",
+            "LOCADD": "37813 W. KELLY RD.",
+            "LOCCITY": "BENTON",
+            "LOCCOUNTY": "BENTON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 46.9,
+            "ALLSTRUC": 50.3,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.57561414177918,
+            "y": 46.32200583420194
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 47,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "6",
+            "LAT_DMS": "46,5,42",
+            "LATDIR": "N",
+            "LON_DMS": "119,11,45",
+            "LONDIR": "W",
+            "LOCADD": "64899 BOFER CANYON ROAD",
+            "LOCCITY": "KENNEWICK",
+            "LOCCOUNTY": "BENTON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1034215",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 92.4,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.19581402729553,
+            "y": 46.095005857534375
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 48,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "7",
+            "LAT_DMS": "46,6,54",
+            "LATDIR": "N",
+            "LON_DMS": "119,1,33",
+            "LONDIR": "W",
+            "LOCADD": "67471 SOUTH FINLEY ROAD",
+            "LOCCITY": "KENNEWICK",
+            "LOCCOUNTY": "BENTON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1212672",
+            "SUPSTRUC": 76.5,
+            "ALLSTRUC": 78,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.02581400191463,
+            "y": 46.115005876020405
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 49,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "8",
+            "LAT_DMS": "46,47,35",
+            "LATDIR": "N",
+            "LON_DMS": "118,40,15",
+            "LONDIR": "W",
+            "LOCADD": "12 MILES SOUTH BY SOUTHWEST OF LIND",
+            "LOCCITY": "LIND",
+            "LOCCOUNTY": "ADAMS",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1031227",
+            "SUPSTRUC": 91.1,
+            "ALLSTRUC": 97.5,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -118.67081408500201,
+            "y": 46.79310595917275
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 50,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "9",
+            "LAT_DMS": "46,33,1",
+            "LATDIR": "N",
+            "LON_DMS": "119,34,16",
+            "LONDIR": "W",
+            "LOCADD": "HAUL ROAD ROUTE 4-HANFORD",
+            "LOCCITY": "RICHLAND",
+            "LOCCOUNTY": "BENTON",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1212108",
+            "SUPSTRUC": 90.2,
+            "ALLSTRUC": 94.8,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.5711141905674,
+            "y": 46.55030584923559
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 51,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "10",
+            "LAT_DMS": "46,33,31",
+            "LATDIR": "N",
+            "LON_DMS": "119,9,51",
+            "LONDIR": "W",
+            "LOCADD": "2061 WEST KALMATH ROAD",
+            "LOCCITY": "MESA",
+            "LOCCOUNTY": "FRANKLIN",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1216653",
+            "SUPSTRUC": 92,
+            "ALLSTRUC": 95.1,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.16421412138459,
+            "y": 46.55860589204833
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 52,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "11",
+            "LAT_DMS": "46,25,50",
+            "LATDIR": "N",
+            "LON_DMS": "119,0,50",
+            "LONDIR": "W",
+            "LOCADD": "500 SOUTH ELM ROAD",
+            "LOCCITY": "PASCO",
+            "LOCCOUNTY": "FRANKLIN",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1216404",
+            "SUPSTRUC": 73.8,
+            "ALLSTRUC": 76.2,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -119.01391406738026,
+            "y": 46.430605898743295
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 53,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "12",
+            "LAT_DMS": "46,46,43",
+            "LATDIR": "N",
+            "LON_DMS": "118,46,57",
+            "LONDIR": "W",
+            "LOCADD": "HAMPTON ROAD .6 MILES WEST OF HIGHWAY 395",
+            "LOCCITY": "OTHELLO",
+            "LOCCOUNTY": "ADAMS",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1212671",
+            "SUPSTRUC": 76.8,
+            "ALLSTRUC": 79.2,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -118.7825141018443,
+            "y": 46.778605946107575
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 54,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA817",
+            "LOCNUM": "13",
+            "LAT_DMS": "46,18,28",
+            "LATDIR": "N",
+            "LON_DMS": "120,3,48",
+            "LONDIR": "W",
+            "LOCADD": "EAST END OF SNIPES MOUNTAIN/NO ADDRESS",
+            "LOCCITY": "SUNNYSIDE",
+            "LOCCOUNTY": "YAKIMA",
+            "LOCSTATE": "WA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1033119",
+            "SUPSTRUC": 63.4,
+            "ALLSTRUC": 67.7,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11513"
+         },
+         "geometry": {
+            "x": -120.06331422287303,
+            "y": 46.307805782810696
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 55,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA467",
+            "LOCNUM": "2",
+            "LAT_DMS": "18,2,53",
+            "LATDIR": "N",
+            "LON_DMS": "66,26,39",
+            "LONDIR": "W",
+            "LOCADD": "ROAD # 14, KM 20 HM 7 RIO CANAS WARD",
+            "LOCCITY": "NOT AVAILABLE",
+            "LOCCOUNTY": "JUANA DIAZ",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "11/30/2009",
+            "TOWREG": "1011218",
+            "SUPSTRUC": 86.9,
+            "ALLSTRUC": 91.7,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11514"
+         },
+         "geometry": {
+            "x": -66.44419837565448,
+            "y": 18.048102784815732
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 56,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA467",
+            "LOCNUM": "6",
+            "LAT_DMS": "18,10,20",
+            "LATDIR": "N",
+            "LON_DMS": "66,35,30",
+            "LONDIR": "W",
+            "LOCADD": "PANORAMIC ROAD # 143 KM. 18, VEGUITA WARD",
+            "LOCCITY": "JAYUYA",
+            "LOCCOUNTY": "JAYUYA",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "11/30/2009",
+            "TOWREG": "1017057",
+            "SUPSTRUC": 61,
+            "ALLSTRUC": 68.6,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11514"
+         },
+         "geometry": {
+            "x": -66.5916984237432,
+            "y": 18.172202819504538
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 57,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA467",
+            "LOCNUM": "7",
+            "LAT_DMS": "18,6,53",
+            "LATDIR": "N",
+            "LON_DMS": "66,39,31",
+            "LONDIR": "W",
+            "LOCADD": "ROAD 123 KM 2 GUARAGUAO WARD",
+            "LOCCITY": "PONCE",
+            "LOCCOUNTY": "PONCE",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "11/30/2009",
+            "TOWREG": "1236245",
+            "SUPSTRUC": 55.7,
+            "ALLSTRUC": 58.5,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11514"
+         },
+         "geometry": {
+            "x": -66.65859844306368,
+            "y": 18.11470280109347
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 58,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA467",
+            "LOCNUM": "8",
+            "LAT_DMS": "18,8,36",
+            "LATDIR": "N",
+            "LON_DMS": "66,29,31",
+            "LONDIR": "W",
+            "LOCADD": "ROAD # 561 KM 0.3 INTERIOR, ACEITUNA ARRIBA WARD",
+            "LOCCITY": "VILLALBA",
+            "LOCCOUNTY": "VILLALBA",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "11/30/2009",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 6.4,
+            "ALLSTRUC": 13.1,
+            "STRUCTYPE": "B",
+            "LIC_ID": "11514"
+         },
+         "geometry": {
+            "x": -66.49189839179729,
+            "y": 18.14330281237493
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 59,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA627",
+            "LOCNUM": "2",
+            "LAT_DMS": "18,27,52",
+            "LATDIR": "N",
+            "LON_DMS": "67,4,27",
+            "LONDIR": "W",
+            "LOCADD": "ROAD 466 KM 0.7 CEIBA BAJA WARD",
+            "LOCCITY": "AGUADILLA",
+            "LOCCOUNTY": "AGUADILLA",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "12/07/2010",
+            "TOWREG": "1011221",
+            "SUPSTRUC": 87.5,
+            "ALLSTRUC": 92.7,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11515"
+         },
+         "geometry": {
+            "x": -67.07419857800193,
+            "y": 18.464502897290924
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 60,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA627",
+            "LOCNUM": "3",
+            "LAT_DMS": "18,26,29",
+            "LATDIR": "N",
+            "LON_DMS": "67,8,48",
+            "LONDIR": "W",
+            "LOCADD": "RADIO NOROESTE BROADCASTING INTER SUR #2 AND #459",
+            "LOCCITY": "AGUADILLA",
+            "LOCCOUNTY": "AGUADILLA",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "08/23/2010",
+            "TOWREG": "1011204",
+            "SUPSTRUC": 85,
+            "ALLSTRUC": 89.3,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11515"
+         },
+         "geometry": {
+            "x": -67.1466985992609,
+            "y": 18.441402889631696
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 61,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA627",
+            "LOCNUM": "4",
+            "LAT_DMS": "18,20,51",
+            "LATDIR": "N",
+            "LON_DMS": "67,9,39",
+            "LONDIR": "W",
+            "LOCADD": "ROAD #2 INTERSECTION 4416 KILOMETER 1.0",
+            "LOCCITY": "AGUADA",
+            "LOCCOUNTY": "AGUADA",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "12/07/2009",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 54.9,
+            "ALLSTRUC": 56.1,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11515"
+         },
+         "geometry": {
+            "x": -67.16079860287317,
+            "y": 18.347502861767676
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 62,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA627",
+            "LOCNUM": "5",
+            "LAT_DMS": "18,28,45",
+            "LATDIR": "N",
+            "LON_DMS": "67,0,52",
+            "LONDIR": "W",
+            "LOCADD": "MORA WARD, #474 RD ROAD",
+            "LOCCITY": "ISABELLA",
+            "LOCCOUNTY": "ISABELA",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "03/10/2010",
+            "TOWREG": "1060462",
+            "SUPSTRUC": 76.2,
+            "ALLSTRUC": 79.6,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11515"
+         },
+         "geometry": {
+            "x": -67.01439855964577,
+            "y": 18.47920290339135
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 63,
+            "LICENSEE": "AT&T MOBILITY PUERTO RICO, INC.",
+            "CALLSIGN": "KNKA627",
+            "LOCNUM": "6",
+            "LAT_DMS": "18,20,12",
+            "LATDIR": "N",
+            "LON_DMS": "67,0,41",
+            "LONDIR": "W",
+            "LOCADD": "CARR 125 KM 26.6 BO POZA CENTRAL",
+            "LOCCITY": "SAN SEBASTIAN",
+            "LOCCOUNTY": "SAN SEBASTIAN",
+            "LOCSTATE": "PR",
+            "NEPA": "N",
+            "QZONE": "03/10/2010",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 38.1,
+            "ALLSTRUC": 38.1,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11515"
+         },
+         "geometry": {
+            "x": -67.01139855619834,
+            "y": 18.336702861048252
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 64,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "2",
+            "LAT_DMS": "42,56,58",
+            "LATDIR": "N",
+            "LON_DMS": "84,6,28",
+            "LONDIR": "W",
+            "LOCADD": "2900 E. HIBBARD RD.",
+            "LOCCITY": "CORUNNA",
+            "LOCCOUNTY": "SHIAWASSEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1001174",
+            "SUPSTRUC": 83.8,
+            "ALLSTRUC": 87.5,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -84.10780479695376,
+            "y": 42.94940822870683
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 65,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "4",
+            "LAT_DMS": "42,48,50",
+            "LATDIR": "N",
+            "LON_DMS": "84,12,19",
+            "LONDIR": "W",
+            "LOCADD": "2300 WEST ELSWORTH RD.",
+            "LOCCITY": "PERRY",
+            "LOCCOUNTY": "SHIAWASSEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1014712",
+            "SUPSTRUC": 86.6,
+            "ALLSTRUC": 92,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -84.2053048136662,
+            "y": 42.81390819980361
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 66,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "5",
+            "LAT_DMS": "43,11,26",
+            "LATDIR": "N",
+            "LON_DMS": "83,46,14",
+            "LONDIR": "W",
+            "LOCADD": "4409 W.  FERRAND",
+            "LOCCITY": "CLIO",
+            "LOCCOUNTY": "GENESEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1001192",
+            "SUPSTRUC": 85.6,
+            "ALLSTRUC": 90.5,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.7705047169191,
+            "y": 43.19060828734262
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 67,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "9",
+            "LAT_DMS": "43,0,52",
+            "LATDIR": "N",
+            "LON_DMS": "83,27,24",
+            "LONDIR": "W",
+            "LOCADD": "1201 SOUTH WASHBURN ROAD",
+            "LOCCITY": "LAPEER",
+            "LOCCOUNTY": "LAPEER",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1204894",
+            "SUPSTRUC": 71,
+            "ALLSTRUC": 71.9,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.45670460273521,
+            "y": 43.014408273722886
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 68,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "10",
+            "LAT_DMS": "42,48,26",
+            "LATDIR": "N",
+            "LON_DMS": "83,43,54",
+            "LONDIR": "W",
+            "LOCADD": "15168 NORTH RD",
+            "LOCCITY": "FENTON",
+            "LOCCOUNTY": "GENESEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1014706",
+            "SUPSTRUC": 54.9,
+            "ALLSTRUC": 56.1,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.73170466783614,
+            "y": 42.80720822358069
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 69,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "11",
+            "LAT_DMS": "43,10,55",
+            "LATDIR": "N",
+            "LON_DMS": "83,42,36",
+            "LONDIR": "W",
+            "LOCADD": "1445 HURD ROAD",
+            "LOCCITY": "CLIO",
+            "LOCCOUNTY": "GENESEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 46,
+            "ALLSTRUC": 49.4,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.71000469685924,
+            "y": 43.18200828915127
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 70,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "12",
+            "LAT_DMS": "43,12,0",
+            "LATDIR": "N",
+            "LON_DMS": "83,33,30",
+            "LONDIR": "W",
+            "LOCADD": "13176 IRISH ROAD",
+            "LOCCITY": "OTISVILLE",
+            "LOCCOUNTY": "GENESEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1027615",
+            "SUPSTRUC": 151.2,
+            "ALLSTRUC": 152.1,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.55830465203803,
+            "y": 43.20000830084245
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 71,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "13",
+            "LAT_DMS": "42,52,41",
+            "LATDIR": "N",
+            "LON_DMS": "83,28,28",
+            "LONDIR": "W",
+            "LOCADD": "HIGHWAY 15 AND HURTON ROAD INERSECTION",
+            "LOCCITY": "GOODRICH",
+            "LOCCOUNTY": "GENESEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 39,
+            "ALLSTRUC": 39.3,
+            "STRUCTYPE": "UPOLE",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.47440459519589,
+            "y": 42.878108249296304
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 72,
+            "LICENSEE": "NEW CINGULAR WIRELESS PCS, LLC",
+            "CALLSIGN": "KNKA362",
+            "LOCNUM": "14",
+            "LAT_DMS": "42,47,36",
+            "LATDIR": "N",
+            "LON_DMS": "83,48,39",
+            "LONDIR": "W",
+            "LOCADD": "7201 SILVER LAKE",
+            "LOCCITY": "LINDEN",
+            "LOCCOUNTY": "GENESEE",
+            "LOCSTATE": "MI",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1268210",
+            "SUPSTRUC": 54.9,
+            "ALLSTRUC": 56.1,
+            "STRUCTYPE": "POLE",
+            "LIC_ID": "11516"
+         },
+         "geometry": {
+            "x": -83.81080469038409,
+            "y": 42.79330821750028
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 73,
+            "LICENSEE": "ALLTEL COMMUNICATIONS, LLC",
+            "CALLSIGN": "KNKA581",
+            "LOCNUM": "3",
+            "LAT_DMS": "32,17,29",
+            "LATDIR": "N",
+            "LON_DMS": "81,14,54",
+            "LONDIR": "W",
+            "LOCADD": "WEST SEVENTH STREET EXTENSION",
+            "LOCCITY": "RINCON",
+            "LOCCOUNTY": "EFFINGHAM",
+            "LOCSTATE": "GA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 109.7,
+            "ALLSTRUC": 0,
+            "STRUCTYPE": "N/A",
+            "LIC_ID": "11517"
+         },
+         "geometry": {
+            "x": -81.24830321701982,
+            "y": 32.291406222719054
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 74,
+            "LICENSEE": "ALLTEL COMMUNICATIONS, LLC",
+            "CALLSIGN": "KNKA581",
+            "LOCNUM": "5",
+            "LAT_DMS": "32,9,3",
+            "LATDIR": "N",
+            "LON_DMS": "81,44,52",
+            "LONDIR": "W",
+            "LOCADD": "JERUSALEM CHURCH ROAD",
+            "LOCCITY": "GROVELAND",
+            "LOCCOUNTY": "BRYAN",
+            "LOCSTATE": "GA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 128,
+            "ALLSTRUC": 0,
+            "STRUCTYPE": "N/A",
+            "LIC_ID": "11517"
+         },
+         "geometry": {
+            "x": -81.74780335663957,
+            "y": 32.15080617446547
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 75,
+            "LICENSEE": "ALLTEL COMMUNICATIONS, LLC",
+            "CALLSIGN": "KNKA581",
+            "LOCNUM": "6",
+            "LAT_DMS": "32,23,26",
+            "LATDIR": "N",
+            "LON_DMS": "81,22,15",
+            "LONDIR": "W",
+            "LOCADD": "ROUTE 2, BOX 283/BOAEN ROAD",
+            "LOCCITY": "SPRINGFIELD",
+            "LOCCOUNTY": "EFFINGHAM",
+            "LOCSTATE": "GA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1243237",
+            "SUPSTRUC": 91.4,
+            "ALLSTRUC": 96,
+            "STRUCTYPE": "MAST",
+            "LIC_ID": "11517"
+         },
+         "geometry": {
+            "x": -81.37080325706461,
+            "y": 32.39060624048568
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 76,
+            "LICENSEE": "ALLTEL COMMUNICATIONS, LLC",
+            "CALLSIGN": "KNKA581",
+            "LOCNUM": "9",
+            "LAT_DMS": "31,50,53",
+            "LATDIR": "N",
+            "LON_DMS": "81,15,31",
+            "LONDIR": "W",
+            "LOCADD": "18074 HIGHWAY  17",
+            "LOCCITY": "RICHMOND HILL",
+            "LOCCOUNTY": "BRYAN",
+            "LOCSTATE": "GA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "N/A",
+            "SUPSTRUC": 97.5,
+            "ALLSTRUC": 0,
+            "STRUCTYPE": "N/A",
+            "LIC_ID": "11517"
+         },
+         "geometry": {
+            "x": -81.25860320007757,
+            "y": 31.84810612160026
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 77,
+            "LICENSEE": "ALLTEL COMMUNICATIONS, LLC",
+            "CALLSIGN": "KNKA581",
+            "LOCNUM": "18",
+            "LAT_DMS": "32,7,23",
+            "LATDIR": "N",
+            "LON_DMS": "81,37,37",
+            "LONDIR": "W",
+            "LOCADD": "PEMBROKE SITE - SOUTH POPLAR ST.",
+            "LOCCITY": "PEMBROKE",
+            "LOCCOUNTY": "EFFINGHAM",
+            "LOCSTATE": "GA",
+            "NEPA": "N",
+            "QZONE": "N/A",
+            "TOWREG": "1063043",
+            "SUPSTRUC": 100.6,
+            "ALLSTRUC": 106.1,
+            "STRUCTYPE": "TOWER",
+            "LIC_ID": "11517"
+         },
+         "geometry": {
+            "x": -81.62690332023202,
+            "y": 32.12310617231208
+         }
+      },
+      {
+         "attributes": {
+            "OBJECTID": 78,
+     
